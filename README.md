@@ -32,4 +32,3 @@ Currently I am an undergraduate student at [Nanjing University](https://www.nju.
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about tech.
 
-```markdown
