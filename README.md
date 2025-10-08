@@ -5,13 +5,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 Currently I am an undergraduate student at [Nanjing University](https://www.nju.edu.cn).
 
 ## 🔭 Current Projects
-- [**PedagogySquare-Downloader-rs**](https://github.com/TwinklerG/PedagogySquare-Downloader-rs): A downloader to download files automatically on PedagogySquare(教学立方) rewritten in Rust based on [PedagogySquare Downloader](https://github.com/EricZhu-42/PedagogySquare_Downloader).
-- [**ag-rs**](https://github.com/TwinklerG/ag-rs): Ask GPT implemented in Rust with the idea from [jyy](https://github.com/jiangyy) OS course.
+- [**gobang-rs**](https://github.com/TwinklerG/gobang-rs): Another gobang game based on egui(rust), supporting multiple platforms including desktop and web, powered by **game tree**, **minmax**, **alpha-beta pruning**, **zobrist**...
+- [**nrag**](https://git.nju.edu.cn/TwinklerG/rag): A RAG AI Agent Web App based on Vercel [next-js-aichatbot](https://vercel.com/templates/next.js/nextjs-ai-chatbot), attempting to enhance it with the power of RAG.
 
 ## 🌱 What I'm Learning
-- Advanced Rust
-- Web Crawler
+- Machine Learning(西瓜书) and Deep Learning(CS336)
 - Application development(Vue, React, Next.js, Flutter...)
+- Advanced Rust
 
 ## 👯 Looking to Collaborate On
 - Open-source projects that make a difference
@@ -20,12 +20,10 @@ Currently I am an undergraduate student at [Nanjing University](https://www.nju.
 
 ## 💬 Ask Me About
 - Web development (React, Node.js, etc.)
-- Data analysis and visualization
 - Best practices in software development
-- Web crawler try
 
 ## 📫 How to Reach Me
-- Email: twinklerchn@gmail.com
+- Email: TwinklerG@outlook.com
 
 ## ⚡ Fun Fact
 - I love exploring new technologies and applying them to solve real-world problems.
